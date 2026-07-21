@@ -44,4 +44,44 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/kianmmoeini/Electric-Car-Analysis.git
+```
+## Navigate to the project directory:
+```bash
+cd Electric-Car-Analysis
+```
+## Install required libraries:
+```bash
+pip install -r requirements.txt
+```
+# Usage
 
+## Run Jupyter Notebook:
+```bash
+jupyter notebook
+```
+ Open the analysis notebook and explore the data analysis process and visualizations.
+
+## Analysis Process
+
+# The project workflow includes:
+
+## Loading the dataset
+## Data cleaning and preprocessing
+## Exploratory Data Analysis
+## Data visualization
+## Finding patterns and insights
+# Results
+
+The analysis provides insights into electric vehicle characteristics and helps understand relationships between different EV features using visualizations and statistical methods.
+
+## Future Improvements
+### Add interactive dashboards
+### Apply machine learning models for prediction
+### Include more electric vehicle datasets
+### Improve visualization and reporting
+# Author
+
+## Kian Moeini
+
+## GitHub:
+https://github.com/kianmmoeini
