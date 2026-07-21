@@ -37,4 +37,11 @@ The project explores different electric vehicle attributes such as:
 - Vehicle specifications
 - Performance metrics
 
-## Project Structure
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kianmmoeini/Electric-Car-Analysis.git
+
