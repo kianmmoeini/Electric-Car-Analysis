@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Electric Car Analysis 🚗⚡
 
 Exploratory analysis and growth forecasting of Washington State's official electric vehicle registry — 177,000+ vehicles, cleaned, visualized, and projected out to 2029.
@@ -171,5 +169,3 @@ The analysis provides insights into electric vehicle characteristics and helps u
 https://github.com/kianmmoeini
 ### porfolio website:
 https://kianmoeini-portfolio-peach-mu.vercel.app/
->>>>>>> 075360996ccd039e34c9120b65d1e803dda86936
->>>>>>> 3bd8c43b47248ec04522d9dda2a4fec6e2955bae
